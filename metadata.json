@@ -1,0 +1,7 @@
+{
+  "name": "Metro Mitra",
+  "description": "AI-powered crowd prediction, risk awareness, and community reporting platform for metro commuters.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
